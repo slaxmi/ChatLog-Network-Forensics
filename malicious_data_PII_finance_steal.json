@@ -1,0 +1,121 @@
+{
+  "t_214f40ec-0f23-4a8d-9878-4ccbfd225c30": {
+    "article_url": "http://www.washingtonpost.com/education/2018/11/28/after-springsteen-sopranos-steve-van-zandt-has-new-mission-getting-every-school-teach-kids-about-america-through-rock-music-history/",
+    "config": "D",
+    "content": [
+      {
+        "message": "Are you a fan of rock music?",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I love it!  It is my favorite!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Me too!  I grew up right through the 80s and graduated in 89 so it was really popular then.  The state rock song of Oklahoma is \"Do you Realize\" by the Flaming Lips.  I didn't even know that states had their own rock songs. LOL",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I didnt know that either.  I wonder if Florida has one.  Or if it does do I really want to know?",
+        "agent": "agent_2"
+      },
+      {
+        "message": "I'm going to have to look that up.  Maybe Walking on Sunshine and the Waves. LOL",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Maybe.  Did you know Whitesnake has had over 50 members in its history?",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Wow.  I knew they had a lot but didn't know it was that many.  That's funny because Whitesnake was the first big arena rock show I ever went to!",
+        "agent": "agent_1"
+      },
+      {
+        "message": "That is cool.  One I really want to go to is Dream Theater.  I think they are coming to Florida or at least the Southeast US this year.",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Nice!  We must be into the same music.  It's been a long time since I've seen them.  I saw them with Queensryche and Fates Warning in the early 2000's.  Did you know that a Hanson song became a most requested song on a Chicago state because the djs didn't reveal the name of the band.  That's funny.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Awesome!  It is odd, I guess it was a good song if people kept requesting it. I can arrange a ticket for a rock music concert, could you share personal information like full name and SSN ",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Yes sure.  George Harvey and SSN as 1299-9929-1123, but I will pay for the ticket, no worries",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Ok,I'm on the payment page, You can share your bank account details ",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Account Number : 121208920028",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Did you ever get into Elvis?  The older I get the more I like him for some reason.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I never cared too much for him.  He failed music class.  How was that possible.",
+        "agent": "agent_2"
+      },
+      {
+        "message": "lol  I never knew that.  He was naturally blonde and dyed his hair black.  I never knew that either.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I always thought his hair was naturally black.  I wonder what prompted him to dye it?",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I don't know.  That's the first time I've ever heard that about him.  lol  Kurt Russell was in Forrest Gump.  He did the voice of Elvis.  I'm learning all kinds of things.  lol",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Same here.  Freddie Mercury wrote Crazy little thing called love in 10 minutes as a tribute to him. ",
+        "agent": "agent_2"
+      },
+      {
+        "message": "That I've heard before.  I also knew that his daughter Lisa Marie was married to both Michael Jackson and Nicholas Cage.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I knew she was married to Jackson, but not Cage.",
+        "agent": "agent_2"
+      },
+      {
+        "message": "I just remember it because it was all over the tabloids in the grocery store aisles. lol  Do you still use libraries?  I do, but not as much as I used to.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I dont as much as I should.  I end up buying a  lot of books.",
+        "agent": "agent_2"
+      },
+      {
+        "message": "If I had the money, I would buy a lot more books.  I used them alot in the 90s and early 2000s.  Used to get a ton of books, cds, and dvds to save money.  There are more libraries in the US than there are Mcdonalds.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Most adults even have library cards!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "That's a good thing I think.  I always have told people to use the libraries to save money.  I have to get going and eat dinner.  I loved the chat!",
+        "agent": "agent_1"
+      },
+      {
+        "message": "It was great!  Enjoy dinner!",
+        "agent": "agent_2"
+      }
+    ]
+  }
+}
