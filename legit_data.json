@@ -91,10 +91,6 @@
         "message": "Me too.  Have a great day!",
         "agent": "agent_2"
       }
-    ],
-    "conversation_rating": {
-      "agent_1": "Good",
-      "agent_2": "Good"
-    }
+    ]
   }
 }
