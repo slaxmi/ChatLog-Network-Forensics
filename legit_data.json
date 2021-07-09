@@ -9,22 +9,15 @@
       },
       {
         "message": "Hi, no not really.  Are you?",
-        "agent": "agent_2",
-        "sentiment": "Neutral"
+        "agent": "agent_2"
       },
       {
         "message": "I watch it during the season because I don't have anything better to do.  Especially for the Monday and Thursday night games.",
-        "agent": "agent_1",
-        "sentiment": "Happy",
-        "knowledge_source": [
-          "FS2"
-        ],
-        "turn_rating": "Good"
+        "agent": "agent_1"
       },
       {
         "message": "I get that, especially when there is only 11 minutes of action in a game.  I guess the rest is commercials?",
-        "agent": "agent_2",
-        "sentiment": "Surprised"
+        "agent": "agent_2"
       },
       {
         "message": "Isn't that crazy that it's such a short amount of time for something they drag out of 3 hours?",
