@@ -1,0 +1,107 @@
+{
+  "t_c0f787a2-1a4a-47c3-95aa-50b5567504e8": {
+    "article_url": "https://www.washingtonpost.com/news/early-lead/wp/2018/02/12/johnny-manziel-says-hes-taking-medication-for-bipolar-disorder-as-he-eyes-nfl-comeback/",
+    "config": "B",
+    "content": [
+      {
+        "message": "Hi are you a football fan?",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Hi, no not really.  Are you?",
+        "agent": "agent_2",
+        "sentiment": "Neutral"
+      },
+      {
+        "message": "I watch it during the season because I don't have anything better to do.  Especially for the Monday and Thursday night games.",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I get that, especially when there is only 11 minutes of action in a game.  I guess the rest is commercials?",
+        "agent": "agent_2",
+        "sentiment": "Surprised"
+      },
+      {
+        "message": "Isn't that crazy that it's such a short amount of time for something they drag out of 3 hours?",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I know! They sure do milk it for all its worth.  ",
+        "agent": "agent_2"
+      },
+      {
+        "message": "ESPN won an emmy for creating the superimposed yellow first down line on tv.  That has been a good addition to watching games.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Yeah, that was a good addition. Can't believe that Benjarvus Green-Ellis never fumbled.  Amazing!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "That's an incredible stat to have!  The average lifetime earnings of an engineer is higher than the average lifetime earnings of an NFL or MLB player.  Probably due to having longer careers.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Yeah, that's what I would think.  NFL careers are probably pretty short on average due to injury, and it is really hard to get to the majors and stick there long enough to make any serious money",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Yes.  Did you know that there is no written rule that prevents females from playing in the NFL?  Maybe we'll see on soon?",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Maybe we will!  That would help boost ratings, I would think.  Maybe then they'll start letting the Saint's cheerleaders eat in the same restaurants as the players.  What a stupid rule!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "That is an odd rule for sure!  Kind of dumb.",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Do you a cat?  They are amazing creatures.  One is a mayor in Alaska!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "I have one outside.  Yes they are.  I would like to see the cat cafes they have in Japan.  Do you know how those work?",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Yes!  They can pay by the hour to play with cats and have drinks. Seems like a cool place!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "I agree!  When a cat reaches the age of 15 they have usually spent 10 of those years sleeping!",
+        "agent": "agent_1"
+      },
+      {
+        "message": "That's a life well lived lol.  Cats can also co-author physics papers!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "What?  That is crazy!  lol  There is a cat named Stubbs who is the mayor of a town called Talkeetna in Alaska!  How does that work?  lol",
+        "agent": "agent_1"
+      },
+      {
+        "message": "I wonder who that cat ran against?  It would've been funny if the other candidate was a dog!",
+        "agent": "agent_2"
+      },
+      {
+        "message": "Hahah Yes it would be!  I've had a good time chatting with you!",
+        "agent": "agent_1"
+      },
+      {
+        "message": "Me too.  Have a great day!",
+        "agent": "agent_2"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Good",
+      "agent_2": "Good"
+    }
+  }
+}
